@@ -1,11 +1,12 @@
-EmpowerLink: Dynamic Employee Management System
+# EmpowerLink: Dynamic Employee Management System
 
-Introduction
+
+# Introduction
 ************
 EmpowerLink is a comprehensive employee management solution designed for companies seeking an efficient way to organize and manage employee records. Utilizing dynamic linked lists in C programming, EmpowerLink offers an intuitive interface for handling various tasks such as adding, editing, and removing employee details.
 
 
-Key Features
+# Key Features
 ************
     •	Dynamic Linked List Implementation: Efficient handling of employee records using dynamic linked lists.
     •	User-Friendly Interface: Command-line based menu for easy navigation and operation.
@@ -15,14 +16,14 @@ Key Features
     •	Sorting and Counting: Ability to sort employees by ID and count the total number of employees.
 
   
-Technical Specifications
+# Technical Specifications
 *************************
     •	Programming Language: C (Standard: C99)
     •	Data Structure: User-defined structure for employee records.
     •	Folder Structure: Organized into src, include, and bin folders for source files, header files, and executable files
 
 
-Functionality Overview
+# Functionality Overview
 ***********************
     1.	Add New Employee: recruitEmployee for entering and adding new employee data.
     2.	Print All Employees: printAll to display data of all employees in the linked list.
@@ -35,7 +36,7 @@ Functionality Overview
     9.	Remove All Employees: fireAll to clear the entire employee list.
 
 
-Compilation and Usage
+# Compilation and Usage
 *********************
     •	Compiled with -std=c99 -Wall flags.
     •	Makefile provided for streamlined compilation.
